@@ -10,7 +10,7 @@ page_sections:
   - link: "/"
     link_text: pierwsza
   - link: "#swap"
-    link_text: Swap
+    link_text: druga
   - link: "#customize"
     link_text: Customize
   - link: "#responsive"
